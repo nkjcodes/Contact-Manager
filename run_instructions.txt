@@ -1,0 +1,28 @@
+The app is android app and it is built using Android Studio with Java as language.
+
+Download lastest version of Android Studio for best view
+
+Step 1: Unzip the folder shared.
+
+Step 2: Go to android studio app and import the folder using File > New > Import project
+
+Step 3: The project will take some time to get ready.
+
+Step 4: Then connect your physical device or download emulator in android studio to see the working of application.
+
+Step 5: Click the run button to run the project.
+
+I have used Firebase Database as database.
+
+I have ready worked hard for this app and I am happy to share it because it is working fine in all devices, because 
+I myself have tried in many devies. I also developed other apps as well like chating app, notes app, etc. 
+
+
+Dear Sir/Ma'am,
+Kindly have one look at app you will like it.
+If you face any problem you can call me any time on this number 9380027071 I would be happy to show you what I built.
+I have also attached some screenshots of the app kindly have a look to them also.
+Please give a chance.
+
+
+
